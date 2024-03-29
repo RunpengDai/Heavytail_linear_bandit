@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Variance-aware robust reinforcement learning with linear function approximation with heavy-tailed rewards</b:Title>
+    <b:Year>2023</b:Year>
+    <b:JournalName>arXiv preprint arXiv:2303.05606</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xiang</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qiang</b:First>
+            <b:Last>Sun</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>variance-aware-robust-reinforcement-learning-with-linear-function-approximation-with-heavy-tailed-rewards</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Almost optimal algorithms for linear stochastic bandits with heavy-tailed payoffs</b:Title>
+    <b:Year>2018</b:Year>
+    <b:JournalName>Advances in Neural Information Processing Systems</b:JournalName>
+    <b:Volume>31</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Han</b:First>
+            <b:Last>Shao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaotian</b:First>
+            <b:Last>Yu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Irwin</b:First>
+            <b:Last>King</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael R</b:First>
+            <b:Last>Lyu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>almost-optimal-algorithms-for-linear-stochastic-bandits-with-heavy-tailed-payoffs</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>No-regret algorithms for heavy-tailed linear bandits</b:Title>
+    <b:Year>2016</b:Year>
+    <b:Pages>1642-1650</b:Pages>
+    <b:JournalName>International Conference on Machine Learning</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Andres Munoz</b:First>
+            <b:Last>Medina</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Scott</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>no-regret-algorithms-for-heavy-tailed-linear-bandits</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Nearly minimax optimal reinforcement learning for linear mixture markov decision processes</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Pages>4532-4576</b:Pages>
+    <b:JournalName>Conference on Learning Theory</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Dongruo</b:First>
+            <b:Last>Zhou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Quanquan</b:First>
+            <b:Last>Gu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Csaba</b:First>
+            <b:Last>Szepesvari</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>nearly-minimax-optimal-reinforcement-learning-for-linear-mixture-markov-decision-processes</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Information directed sampling and bandits with heteroscedastic noise</b:Title>
+    <b:Year>2018</b:Year>
+    <b:Pages>358-384</b:Pages>
+    <b:JournalName>Conference On Learning Theory</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Johannes</b:First>
+            <b:Last>Kirschner</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andreas</b:First>
+            <b:Last>Krause</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>information-directed-sampling-and-bandits-with-heteroscedastic-noise</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Eluder dimension and the sample complexity of optimistic exploration</b:Title>
+    <b:Year>2013</b:Year>
+    <b:JournalName>Advances in Neural Information Processing Systems</b:JournalName>
+    <b:Volume>26</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Daniel</b:First>
+            <b:Last>Russo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Benjamin</b:First>
+            <b:Last>Van Roy</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>eluder-dimension-and-the-sample-complexity-of-optimistic-exploration</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Parametric bandits: The generalized linear case</b:Title>
+    <b:Year>2010</b:Year>
+    <b:JournalName>Advances in Neural Information Processing Systems</b:JournalName>
+    <b:Volume>23</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Sarah</b:First>
+            <b:Last>Filippi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Olivier</b:First>
+            <b:Last>Cappe</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Aurélien</b:First>
+            <b:Last>Garivier</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Csaba</b:First>
+            <b:Last>Szepesvári</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>parametric-bandits:-the-generalized-linear-case</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A survey of online experiment design with the stochastic multi-armed bandit</b:Title>
+    <b:Year>2015</b:Year>
+    <b:JournalName>arXiv preprint arXiv:1510.00757</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Giuseppe</b:First>
+            <b:Last>Burtini</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jason</b:First>
+            <b:Last>Loeppky</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ramon</b:First>
+            <b:Last>Lawrence</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>a-survey-of-online-experiment-design-with-the-stochastic-multi-armed-bandit</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Book</b:SourceType>
+    <b:Title>Bandit algorithms</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Publisher>Cambridge University Press</b:Publisher>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Tor</b:First>
+            <b:Last>Lattimore</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Csaba</b:First>
+            <b:Last>Szepesvári</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>bandit-algorithms</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>On the likelihood that one unknown probability exceeds another in view of the evidence of two samples</b:Title>
+    <b:Year>1933</b:Year>
+    <b:Publisher>Oxford University Press</b:Publisher>
+    <b:Pages>285-294</b:Pages>
+    <b:JournalName>Biometrika</b:JournalName>
+    <b:Volume>25</b:Volume>
+    <b:Issue>3-4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>William R</b:First>
+            <b:Last>Thompson</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>on-the-likelihood-that-one-unknown-probability-exceeds-another-in-view-of-the-evidence-of-two-samples</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Asymptotically efficient adaptive allocation rules</b:Title>
+    <b:Year>1985</b:Year>
+    <b:Pages>4-22</b:Pages>
+    <b:JournalName>Advances in applied mathematics</b:JournalName>
+    <b:Volume>6</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Tze Leung</b:First>
+            <b:Last>Lai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Herbert</b:First>
+            <b:Last>Robbins</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>others</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>asymptotically-efficient-adaptive-allocation-rules</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Nearly optimal regret for stochastic linear bandits with heavy-tailed payoffs</b:Title>
+    <b:Year>2020</b:Year>
+    <b:JournalName>arXiv preprint arXiv:2004.13465</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Bo</b:First>
+            <b:Last>Xue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Guanghui</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yimu</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lijun</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>nearly-optimal-regret-for-stochastic-linear-bandits-with-heavy-tailed-payoffs</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Survey on applications of multi-armed and contextual bandits</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Pages>1-8</b:Pages>
+    <b:JournalName>2020 IEEE Congress on Evolutionary Computation (CEC)</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Djallel</b:First>
+            <b:Last>Bouneffouf</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Irina</b:First>
+            <b:Last>Rish</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Charu</b:First>
+            <b:Last>Aggarwal</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>survey-on-applications-of-multi-armed-and-contextual-bandits</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A contextual-bandit approach to personalized news article recommendation</b:Title>
+    <b:Year>2010</b:Year>
+    <b:Pages>661-670</b:Pages>
+    <b:JournalName>Proceedings of the 19th international conference on World wide web</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Lihong</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wei</b:First>
+            <b:Last>Chu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>John</b:First>
+            <b:Last>Langford</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Robert E</b:First>
+            <b:Last>Schapire</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>a-contextual-bandit-approach-to-personalized-news-article-recommendation</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Is Q-learning minimax optimal? a tight sample complexity analysis</b:Title>
+    <b:Year>2021</b:Year>
+    <b:JournalName>arXiv preprint arXiv:2102.06548</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Gen</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Changxiao</b:First>
+            <b:Last>Cai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuxin</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuantao</b:First>
+            <b:Last>Gu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuting</b:First>
+            <b:Last>Wei</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuejie</b:First>
+            <b:Last>Chi</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>is-q-learning-minimax-optimal?-a-tight-sample-complexity-analysis</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Improved algorithms for linear stochastic bandits</b:Title>
+    <b:Year>2011</b:Year>
+    <b:JournalName>Advances in neural information processing systems</b:JournalName>
+    <b:Volume>24</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yasin</b:First>
+            <b:Last>Abbasi-Yadkori</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dávid</b:First>
+            <b:Last>Pál</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Csaba</b:First>
+            <b:Last>Szepesvári</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>improved-algorithms-for-linear-stochastic-bandits</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>On tail probabilities for martingales</b:Title>
+    <b:Year>1975</b:Year>
+    <b:Publisher>JSTOR</b:Publisher>
+    <b:Pages>100-118</b:Pages>
+    <b:JournalName>the Annals of Probability</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>David A</b:First>
+            <b:Last>Freedman</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>on-tail-probabilities-for-martingales</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Freedman’s inequality with non-bounded martingale differences</b:Title>
+    <b:Year>2014</b:Year>
+    <b:Publisher>Citeseer</b:Publisher>
+    <b:JournalName>arXiv preprint arXiv:1404.4776</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xiequan</b:First>
+            <b:Last>Fan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>freedman’s-inequality-with-non-bounded-martingale-differences</b:Tag>
+  </b:Source>
+</b:Sources>
